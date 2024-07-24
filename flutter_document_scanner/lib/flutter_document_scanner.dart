@@ -19,3 +19,4 @@ export 'src/utils/edit_photo_document_style.dart';
 export 'src/utils/general_styles.dart';
 export 'src/utils/image_utils.dart';
 export 'src/utils/take_photo_document_style.dart';
+export 'src/ui/pages/crop_photo_document_page.dart';
